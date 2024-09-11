@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [submodule "pico-sdk"]
 	path = lib/pico-sdk
 	url = git@github.com:raspberrypi/pico-sdk.git
@@ -10,6 +11,8 @@
     shallow = true
     branch = V11.1.0
     ignore = dirty
+=======
 [submodule "Unity"]
 	path = Unity
 	url = https://github.com/ThrowTheSwitch/Unity.git
+>>>>>>> master
