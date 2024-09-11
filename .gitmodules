@@ -10,6 +10,3 @@
     shallow = true
     branch = V11.1.0
     ignore = dirty
-[submodule "Unity"]
-	path = Unity
-	url = https://github.com/ThrowTheSwitch/Unity.git
